@@ -1,1 +1,1 @@
-# python_django
+развернуть через докер # python_django
